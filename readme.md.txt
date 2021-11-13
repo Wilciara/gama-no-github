@@ -1,0 +1,1 @@
+Um passo de cada vez. As vezes dois passos pra trás e um para frente. Mas seguindo. Niguém disse que era fácil e nem impossível.
