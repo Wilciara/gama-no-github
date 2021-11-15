@@ -1,0 +1,25 @@
+body{ color: deeppink;}
+        li{
+            text-decoration: underline;
+        }
+        ul {
+            border: 5px solid greenyellow;}
+
+
+/*tags*/
+ body{text-align: center;
+}
+
+
+#login { background-color: deeppink;
+color: yellowgreen;
+}
+#registre{
+    background-color: deeppink;
+    color: yellowgreen;
+}
+.copy{
+    font-size:8px;
+
+}
+
